@@ -1,0 +1,18 @@
+Problems to go over with James
+
+ex17 - i am beginning to make sense of this although i am having problems running the file - segmentation faults? after reading about it, i am unsure why it is affecting my code. 
+
+also, i think it may be something to do with fopen but having looked in the library i am again finding it hard to see the problem. 
+
+ex19
+what is going on with prototypes?
+
+i keep getting the error message that RoomProto is undeclared - i find this confusing - i can't see how what i have done is different to the code on LCTHW
+
+i kind of get what is going on in the program 
+
+i need deeper understanding of void *self which is the argument for about a million functions
+
+i need to discuss the way the header files interrelate
+
+i need deeper understanding of the -> thing and need to look at how that is being used here. 
